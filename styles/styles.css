@@ -5,20 +5,20 @@ form, h1{
 }
 
 h1 {
-    color: #fff;
+	color: #fff;
 }
 
 form {
-    margin-left: calc(50% - 250px) ;
-    padding: 10px;
-    background-color: #fff;
-    max-width: 500px;
-    border-radius: 15px;
+	margin-left: calc(50% - 250px) ;
+	padding: 10px;
+	background-color: #fff;
+	max-width: 500px;
+	border-radius: 15px;
 }
 
 .msg {
-    text-align: center;
-    color: #fff;
+	text-align: center;
+	color: #fff;
 }
 
 body {
